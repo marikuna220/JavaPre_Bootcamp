@@ -3,7 +3,7 @@ package com.company;
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class A1CollectionsLoopAndCondition {
     public static void main(String[] args) {
         List<Integer> numbers = Arrays.asList(5, 12, 8, 20, 3);
         int total = 0;
@@ -18,4 +18,5 @@ public class Main {
     }
 }
 // aqdamakldmakfam 32
+
 
